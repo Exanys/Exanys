@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Kotlin, machine learning and quantum physics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Exanys?tab=repositories](https://github.com/Exanys?tab=repositories)
+- 👨‍💻 All of my projects are available at [REPOSITORIES TAB](https://github.com/Exanys?tab=repositories)
 
-- 📝 I regularly write articles on [https://twitter.com/binar_vojtech](https://twitter.com/binar_vojtech)
+- 📝 I regularly write articles on [Twitter](https://twitter.com/binar_vojtech)
 
 - 💬 Ask me about **Python, JS/TS, PHP or whatever you want**
 
 - 📫 How to reach me **binarvojtech@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vojtěch-binar-614674216/](https://www.linkedin.com/in/vojtěch-binar-614674216/)
+- 📄 Know about my experiences [on LinkedIn](https://www.linkedin.com/in/vojtěch-binar-614674216/)
 
 - ⚡ Fun fact **I can drink 7 cups of coffee and still have 40 HR/sec**
 
