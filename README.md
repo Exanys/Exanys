@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I am Theo</h1>
 <h3 align="center">Fullstack programmer with passion for physics and mathematics.</h3>
 
-<p align="left"> <a href="https://twitter.com/binar_vojtech" target="blank"><img src="https://img.shields.io/twitter/follow/binar_vojtech?logo=twitter&style=for-the-badge" alt="binar_vojtech" /></a> </p>
-
 - 🔭 I’m currently working on [Ultimate Search Engine](https://github.com/ultimate-search-engine)
 
 - 🌱 I’m currently learning **Kotlin, machine learning and quantum physics**
