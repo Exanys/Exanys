@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Theo</h1>
-<h2 align="center">Work Github's accounts: <a target="_blank" href="https://github.com/Exanys/TheoBinar">Humanit.cz</a> and <a target="_blank" href="https://github.com/Exanys/VTBinar">Internet Billboard</a></h2>
+<h2 align="center">Work Github's accounts: <a target="_blank" href="https://github.com/TheoBinar">Humanit.cz</a> and <a target="_blank" href="https://github.com/VTBinar">Internet Billboard</a></h2>
 <h3 align="center">Linux and open-source technologies lover from Europe</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=exanys" alt="exanys" /></a> </p>
