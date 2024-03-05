@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Laravel, Typescript, Linux or whatever you want!**
 
-- 📫 I can be reached by mail at **binarvojtech@google.com**
+- 📫 I can be reached by mail at **binarvojtech@gmail.com**
 
 - 📄 Know about my experiences [https://cloud.theodors.eu/index.php/s/bQpBTXbBCn9Qj2d](https://cloud.theodors.eu/index.php/s/bQpBTXbBCn9Qj2d)
 
